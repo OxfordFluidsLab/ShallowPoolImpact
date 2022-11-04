@@ -14,4 +14,4 @@ The code can be executed by simply executing this shell script via *sh run_maste
 ## Example results
 The uploaded framework provides a subset of the data generated for two typical cases, with $We=345$ and two different film heights, $h^* = 0.10$ and $h^* = 0.32$, respectively. 
 
-#the test case described as part of Figure 3 in [the accompanying manuscript](https://arxiv.org/abs/2209.13276) and represents the case of a water droplet #impinging onto a liquid pool at a moderate impact velocity $V_0 = 0.3855$ m/s.
+[//]: # the test case described as part of Figure 3 in [the accompanying manuscript](https://arxiv.org/abs/2209.13276) and represents the case of a water droplet impinging onto a liquid pool at a moderate impact velocity $V_0 = 0.3855$ m/s.

@@ -1,7 +1,7 @@
-% fig3_plot.m
+% fig4_plot.m
 %
 % Script that can be used to gain a basic plot for the raw data underlying
-% figure 3 (fig3.csv)
+% figure 4 (fig4.csv)
 %
 % Source:  https://github.com/OxfordFluidsLab/ShallowPoolImpact
 % Licence: GPL-3.0 (see the Git repo).

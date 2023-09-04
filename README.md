@@ -1,6 +1,6 @@
 # Shallow Pool Impact
 
-This repository complements the paper ![Droplet impact dynamics on shallow pools](https://doi.org/10.1017/jfm.2023.622), published Open Access in the *Journal of Fluid Mechanics*.
+This repository complements the paper [Droplet impact dynamics on shallow pools](https://doi.org/10.1017/jfm.2023.622), published Open Access in the *Journal of Fluid Mechanics*.
 
 ![graphical-abstract](./static/graphicalAbstract.jpg)
 
@@ -13,8 +13,8 @@ This repository complements the paper ![Droplet impact dynamics on shallow pools
  title = {Droplet impact dynamics on shallow pools},
  journal = {J. Fluid Mech.},
  doi = {10.1017/jfm.2023.622},
- volume = {},
- pages = {},
+ volume = {970},
+ pages = {A34},
  year = {2023}
 }
 ```
